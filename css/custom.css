@@ -1,0 +1,20 @@
+.playerNames {
+	display: position;
+}
+
+.names{
+	position: relative;
+	margin-top: 40px;
+	font-size: 20px;
+	color: #666;
+}
+
+.nameOne {
+	float: left;
+	left: 50px;
+}
+
+.nameTwo {
+	float: right;
+	right: 50px;
+}
